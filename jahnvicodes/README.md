@@ -1,1 +1,1 @@
-C Language codes by jahvi.
+C Language codes by jahnvi.
